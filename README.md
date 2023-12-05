@@ -20,7 +20,7 @@ Welcome to my python Calculator Program! This is a simple yet powerful calculato
 
 1. **Clone the Repository:**
    ```bash
-   https://github.com/administrator91/CodeClause_Calculator.git
+   git clone https://github.com/administrator91/CodeClause_Calculator.git
    ```
 
 2. **Run the Calculator:**
